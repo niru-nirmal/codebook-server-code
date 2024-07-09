@@ -270,7 +270,7 @@
       "amount_paid": 58,
       "quantity": 2,
       "user": {
-        "name": "Nirmal Sarda",
+        "name": "Nirmal Choudhary",
         "email": "nirmal@example.com",
         "id": 1
       },
@@ -278,11 +278,6 @@
     }
   ],
   "users": [
-    {
-      "email": "nirmal@example.com",
-      "password": "$2a$10$K9aEH3/VDb2QU/EsjrHGJO7X5JxCcg0bMAnBtyT3kBW9FL7FnnygO",
-      "name": "Nirmal Sarda",
-      "id": 1
-    }
+    
   ]
 }
